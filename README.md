@@ -1,4 +1,4 @@
-githMGTFetcher
+MGTranslator
 ==========
 
 Acrually MGTranslator , is used for online translation using translate.google.com
